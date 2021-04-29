@@ -1,6 +1,6 @@
 # Who-KW
 Simple Tool To Find Caller ID/Name (KW Version)<br>
-![alt text](https://github.com/Soud69/Who/blob/main/image.png?raw=true)
+![alt text](https://github.com/Soud69/Who-KW/blob/main/image.png?raw=true)
 # Credit
 
 Instagram: https://www.instagram.com/8Y/ <br>
